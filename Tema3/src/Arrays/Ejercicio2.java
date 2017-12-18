@@ -13,7 +13,7 @@ public class Ejercicio2 {
 		diez1[0]="YES";
 		diez1[1]="NO";
 		String[] prueba= {"Si", "No"};
-		
+		//Hola
 	}
 
 }
